@@ -13,7 +13,7 @@ freeCodeCamp-China 是 github 上 star 第一的开源项目 freeCodeCamp 中国
 
 如果你暂时没有什么想法，你也可以参考我们为你提供的[教程]()和[参与指南]()
 ## 留下些什么？
-我们鼓励你将你与孩子的互动留下些什么，并用 markdown 的格式，在[这个 repo 中](https://github.com/freeCodeCamp-China/Code-Course-For-Festival/)以 issue 的形式提交。
+我们鼓励你将你与孩子的互动留下些什么，并用 markdown 的格式，在[这个 repo 中](https://github.com/freeCodeCamp-China/Code-Course-For-Festival/)以 [issue](https://github.com/freeCodeCamp-China/Code-Course-For-Festival/issues) 的形式提交。
 
 如果你还不太清楚怎么提交 issue， 也可以参考我们的[参与指南]()
 ## 如何保护隐私？
