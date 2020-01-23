@@ -11,11 +11,11 @@ freeCodeCamp-China 是 github 上 star 第一的开源项目 freeCodeCamp 中国
 ## 如何加入？
 如果你是一名程序员/工程师/老师，并且有自己的孩子的话，想必你能有自己的想法与方式来与孩子们互动了吧。只要与编程有关，任何形式都可以！
 
-如果你暂时没有什么想法，你也可以参考我们为你提供的[教程]()和[参与指南]()
+如果你暂时没有什么想法，你也可以参考我们为你提供的[教程](https://github.com/freeCodeCamp-China/Code-Course-For-Festival/tree/master/courseware)和[参与指南](https://github.com/freeCodeCamp-China/Code-Course-For-Festival/tree/master/teacher-notes)
 ## 留下些什么？
 我们鼓励你将你与孩子的互动留下些什么，并用 markdown 的格式，在[这个 repo 中](https://github.com/freeCodeCamp-China/Code-Course-For-Festival/)以 [issue](https://github.com/freeCodeCamp-China/Code-Course-For-Festival/issues) 的形式提交。
 
-如果你还不太清楚怎么提交 issue， 也可以参考我们的[参与指南]()
+如果你还不太清楚怎么提交 issue， 也可以参考我们的[参与指南](https://github.com/freeCodeCamp-China/Code-Course-For-Festival/tree/master/teacher-notes)
 ## 如何保护隐私？
 我们承诺本次活动不涉及任何**商业行为**，除了你上传的文字/照片，我们**不会去搜集**其他任何关于你和孩子的信息。
 
