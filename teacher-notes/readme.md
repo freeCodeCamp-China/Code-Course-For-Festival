@@ -1,6 +1,6 @@
 ## 参与指南
 哈喽，欢迎你参加这次活动~我们为你准备了两次课的[教程](https://github.com/freeCodeCamp-China/Code-Course-For-Festival/tree/master/courseware)和对应的[老师指导](https://github.com/freeCodeCamp-China/Code-Course-For-Festival/tree/master/teacher-notes)
-如果你对想要带给孩子的编程课的内容还没有什么想法，可以作为参考。
+如果你对想要带给孩子的编程课的内容还没有什么想法，可以作为参考，我们分别为 windows 和 mac 电脑提供了 pptx 以及 keynote 的版本。
 ## 内容提交
 我们希望你以 issue 的形式提交一些你关于这次活动的内容。包括但不限于跟孩子一起活动的文字感想、合影留念、视频等等，任何形式都可以！
 
